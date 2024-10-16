@@ -56,11 +56,6 @@ The backend is assumed to be Python-based.
      source venv/bin/activate
      ```
 
-3. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ### Backend Scripts
 
 - Start the backend server:
